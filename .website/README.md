@@ -1,4 +1,7 @@
 ---
+genres:
+  - card-games
+  - strategy
 directors_cut: https://alex-adedge.itch.io/the-anti-poker-protocol-post-jam
 post: https://github.com/AD-Edge/JS13K_Triskaidekaphobia
 # See github.com/js13kGames/hello-world for supported frontmatter
